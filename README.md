@@ -1,0 +1,1 @@
+Download both the files, I would recommend you to use google collab, you can also use aws,jupyter or visual studio. Insert the files in google collab, run the codes, as it use pinecone so file path and extract and cleaning of file is not required, run the code and ask the necessary queries
